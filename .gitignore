@@ -4,9 +4,8 @@ scratch_Robin/
 scratch_Pushpa/
 scratch_Vikram/
 scratch_refactor/
-json/*
-!json/renderedBags/
-!json/renderedPods/
+#json/
+
 **/.ipynb_checkpoints/
 **/__pycache__/
 
