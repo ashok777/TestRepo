@@ -4,7 +4,7 @@ scratch_Robin/
 scratch_Pushpa/
 scratch_Vikram/
 scratch_refactor/
-json/
+json/*
 !json/renderedBags/
 !json/renderedPods/
 **/.ipynb_checkpoints/
