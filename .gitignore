@@ -1,0 +1,16 @@
+scratch_Alan/
+scratch_Ashok/
+scratch_Robin/
+scratch_Pushpa/
+scratch_Vikram/
+scratch_refactor/
+json/
+!json/renderedBags/
+!json/renderedPods/
+**/.ipynb_checkpoints/
+**/__pycache__/
+
+
+
+
+
